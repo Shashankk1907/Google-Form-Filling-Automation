@@ -1,25 +1,8 @@
 
-### Google Form Auto-Filler & Email Submission Bot
+## Google Form Auto-Filler & Email Submission Bot
 
 An intelligent Python automation tool that fills out and submits Google Forms using **Selenium**, then automatically emails a confirmation (with screenshot and resume attached) using **Flask-Mail**.
 
----
-
-## 📋 Table of Contents
-
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Project Structure](#project-structure)
-4. [Installation](#installation)
-5. [Configuration](#configuration)
-6. [Usage](#usage)
-7. [How It Works](#how-it-works)
-8. [Dependencies](#dependencies)
-9. [Troubleshooting](#troubleshooting)
-10. [Contributors](#contributors)
-11. [License](#license)
-
----
 
 ## 🧩 Introduction
 
@@ -198,6 +181,3 @@ Main Python libraries used:
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-
-(You can choose one or both!)
