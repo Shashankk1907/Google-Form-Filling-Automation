@@ -42,7 +42,7 @@ EMAIL_CONFIG = {
 GOOGLE_FORM_URL = "https://forms.gle/YOUR_FORM_ID"
 
 # GitHub Links
-GITHUB_REPO_URL = "https://github.com/YOUR_USERNAME"
+GITHUB_REPO_URL = "https://github.com/YOUR_USERNAME/Project"
 GITHUB_PROJECTS_URL = [
     "https://github.com/YOUR_USERNAME/Project1",
     "https://github.com/YOUR_USERNAME/Project2",
