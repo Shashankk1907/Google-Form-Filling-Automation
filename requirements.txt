@@ -1,0 +1,4 @@
+selenium==4.15.2
+flask==3.0.0
+flask-mail==0.9.1
+webdriver-manager==4.0.1
